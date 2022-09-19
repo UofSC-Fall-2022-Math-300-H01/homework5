@@ -5,7 +5,7 @@
         "setup": "",
         "run": "lake env lean _Tests/Problem1.lean",
         "input" : "",
-        "output": "true"
+        "output": true
         "comparison": "included",
         "timeout": 10,
         "points": 1
