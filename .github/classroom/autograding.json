@@ -1,0 +1,54 @@
+{
+    "tests": [
+      {
+        "name": "Checking Problem 1",
+        "setup": "",
+        "run": "lake env lean _Tests/Problem1.lean",
+        "input" : "",
+        "output": "[]",
+        "comparison": "equal",
+        "timeout": 10,
+        "points": 1
+      },
+      {
+        "name": "Checking Problem 2",
+        "setup": "",
+        "run": "lake env lean _Tests/Problem2.lean",
+        "input" : "",
+        "output": "[]",
+        "comparison": "equal",
+        "timeout": 10,
+        "points": 1
+      },
+      {
+        "name": "Checking Problem 3",
+        "setup": "",
+        "run": "lake env lean _Tests/Problem3.lean",
+        "input" : "",
+        "output": "[]",
+        "comparison": "equal",
+        "timeout": 10,
+        "points": 1
+      },
+      {
+        "name": "Checking Problem 1",
+        "setup": "",
+        "run": "lake env lean _Tests/Problem3.lean",
+        "input" : "",
+        "output": "[]",
+        "comparison": "equal",
+        "timeout": 10,
+        "points": 1
+      },
+      {
+        "name": "Checking Problem 1",
+        "setup": "",
+        "run": "lake env lean _Tests/Problem3.lean",
+        "input" : "",
+        "output": "[]",
+        "comparison": "equal",
+        "timeout": 10,
+        "points": 1
+      }
+    ]
+  }
