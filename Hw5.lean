@@ -1,4 +1,4 @@
--- Homework 5 due 9.26
+-- Homework 5 due 9.26 
 
 theorem problem1 (A B : Prop) : (A → B) → (¬ B → ¬ A) := sorry
 
